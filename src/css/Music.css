@@ -1,0 +1,16 @@
+/*todo: music container */
+.music{
+    width: 270px;
+    height: 190px;
+    background-color: #E3F2FD;
+}
+
+/*todo: heading for music */
+h3{
+    margin: 1px;
+}
+
+/*todo: list element */
+.music #song1{
+    padding: 0px 0px;
+}

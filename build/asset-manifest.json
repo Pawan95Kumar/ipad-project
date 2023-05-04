@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.97679147.css",
+    "main.js": "/static/js/main.4e9bfe8f.js",
+    "static/media/Fly Fly Away.mp3": "/static/media/Fly Fly Away.23a3d5fbffcaf5e9ca78.mp3",
+    "static/media/Piya Re Darshan Raval.mp3": "/static/media/Piya Re Darshan Raval.911b5743fd57641a8c47.mp3",
+    "static/media/Love You So Much.mp3": "/static/media/Love You So Much.1c3e091ad6b5a23f23d4.mp3",
+    "static/media/Ghode Pe Sawar.mp3": "/static/media/Ghode Pe Sawar.98fbcdcb41203213171f.mp3",
+    "static/media/Sona Lagda - Sukriti Kakar.mp3": "/static/media/Sona Lagda - Sukriti Kakar.6c5735d0b4577af1fdba.mp3",
+    "static/media/wallpaper3.jpg": "/static/media/wallpaper3.73839d47fbfd4a4289aa.jpg",
+    "static/media/wallpaper1.jpg": "/static/media/wallpaper1.0d02cba1dc0882989077.jpg",
+    "static/media/music.jpg": "/static/media/music.c385231b4bfe0891cc99.jpg",
+    "static/media/game.jpg": "/static/media/game.32ff27ff819ba9aac52d.jpg",
+    "static/media/settings.png": "/static/media/settings.9bc43f25a527271f7965.png",
+    "static/media/wallpaper2.jpg": "/static/media/wallpaper2.f7623c91d1eafa558274.jpg",
+    "static/media/Piya Re.jpg": "/static/media/Piya Re.1071efb76a5bfa5e3a50.jpg",
+    "static/media/Fly Fly Away.jpg": "/static/media/Fly Fly Away.f8b81918da73f7903dbf.jpg",
+    "static/media/sohna lagda.jpg": "/static/media/sohna lagda.b26fa4499e3a445e55db.jpg",
+    "static/media/Love You So Much.jpg": "/static/media/Love You So Much.c03d5765c79d205f1870.jpg",
+    "index.html": "/index.html",
+    "main.97679147.css.map": "/static/css/main.97679147.css.map",
+    "main.4e9bfe8f.js.map": "/static/js/main.4e9bfe8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97679147.css",
+    "static/js/main.4e9bfe8f.js"
+  ]
+}
